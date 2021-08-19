@@ -1,0 +1,197 @@
+[2021 Aug 19 08:45:02 INF] -   - Application is started
+[2021 Aug 19 08:45:03 INF] -   - Application started. Press Ctrl+C to shut down.
+[2021 Aug 19 08:45:03 INF] -   - Hosting environment: "Development"
+[2021 Aug 19 08:45:03 INF] -   - Content root path: "C:\Users\shirk\source\repos\HotelListing\HotelListing"
+[2021 Aug 19 08:45:03 INF] -   - Request starting HTTP/2 GET https://localhost:44322/swagger - -
+[2021 Aug 19 08:45:03 INF] -   - Request starting HTTP/2 GET https://localhost:44322/swagger/index.html - -
+[2021 Aug 19 08:45:03 INF] -   - Request finished HTTP/2 GET https://localhost:44322/swagger - - - 301 - - 161.0126ms
+[2021 Aug 19 08:45:03 INF] -   - Request finished HTTP/2 GET https://localhost:44322/swagger/index.html - - - 200 - text/html;charset=utf-8 174.8081ms
+[2021 Aug 19 08:45:03 INF] -   - Request starting HTTP/2 GET https://localhost:44322/swagger/swagger-ui.css - -
+[2021 Aug 19 08:45:03 INF] -   - Request starting HTTP/2 GET https://localhost:44322/swagger/swagger-ui-bundle.js - -
+[2021 Aug 19 08:45:03 INF] -   - Request starting HTTP/2 GET https://localhost:44322/swagger/swagger-ui-standalone-preset.js - -
+[2021 Aug 19 08:45:03 INF] -   - Sending file. Request path: '"/swagger-ui.css"'. Physical path: '"N/A"'
+[2021 Aug 19 08:45:03 INF] -   - Sending file. Request path: '"/swagger-ui-bundle.js"'. Physical path: '"N/A"'
+[2021 Aug 19 08:45:03 INF] -   - Sending file. Request path: '"/swagger-ui-standalone-preset.js"'. Physical path: '"N/A"'
+[2021 Aug 19 08:45:03 INF] -   - Request finished HTTP/2 GET https://localhost:44322/swagger/swagger-ui.css - - - 200 142933 text/css 33.2355ms
+[2021 Aug 19 08:45:03 INF] -   - Request finished HTTP/2 GET https://localhost:44322/swagger/swagger-ui-standalone-preset.js - - - 200 311804 application/javascript 35.8580ms
+[2021 Aug 19 08:45:03 INF] -   - Request finished HTTP/2 GET https://localhost:44322/swagger/swagger-ui-bundle.js - - - 200 986342 application/javascript 48.2788ms
+[2021 Aug 19 08:45:04 INF] -   - Request starting HTTP/2 GET https://localhost:44322/swagger/v1/swagger.json - -
+[2021 Aug 19 08:45:04 INF] -   - Request finished HTTP/2 GET https://localhost:44322/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 107.4542ms
+[2021 Aug 19 09:48:48 INF] - Application is started : 
+[2021 Aug 19 09:48:49 INF] - Application started. Press Ctrl+C to shut down. : 
+[2021 Aug 19 09:48:49 INF] - Hosting environment: "Development" : 
+[2021 Aug 19 09:48:49 INF] - Content root path: "C:\Users\shirk\source\repos\HotelListing\HotelListing" : 
+[2021 Aug 19 09:48:49 INF] - Request starting HTTP/2 GET https://localhost:44322/swagger - - : 
+[2021 Aug 19 09:48:49 INF] - Request starting HTTP/2 GET https://localhost:44322/swagger/index.html - - : 
+[2021 Aug 19 09:48:49 INF] - Request finished HTTP/2 GET https://localhost:44322/swagger - - - 301 - - 51.4007ms : 
+[2021 Aug 19 09:48:49 INF] - Request finished HTTP/2 GET https://localhost:44322/swagger/index.html - - - 200 - text/html;charset=utf-8 74.5683ms : 
+[2021 Aug 19 09:48:49 INF] - Request starting HTTP/2 GET https://localhost:44322/swagger/swagger-ui-standalone-preset.js - - : 
+[2021 Aug 19 09:48:49 INF] - Request starting HTTP/2 GET https://localhost:44322/swagger/swagger-ui.css - - : 
+[2021 Aug 19 09:48:49 INF] - Request starting HTTP/2 GET https://localhost:44322/swagger/swagger-ui-bundle.js - - : 
+[2021 Aug 19 09:48:49 INF] - Sending file. Request path: '"/swagger-ui.css"'. Physical path: '"N/A"' : 
+[2021 Aug 19 09:48:49 INF] - Sending file. Request path: '"/swagger-ui-bundle.js"'. Physical path: '"N/A"' : 
+[2021 Aug 19 09:48:49 INF] - Sending file. Request path: '"/swagger-ui-standalone-preset.js"'. Physical path: '"N/A"' : 
+[2021 Aug 19 09:48:49 INF] - Request finished HTTP/2 GET https://localhost:44322/swagger/swagger-ui.css - - - 200 142933 text/css 37.0771ms : 
+[2021 Aug 19 09:48:49 INF] - Request finished HTTP/2 GET https://localhost:44322/swagger/swagger-ui-standalone-preset.js - - - 200 311804 application/javascript 45.4287ms : 
+[2021 Aug 19 09:48:49 INF] - Request finished HTTP/2 GET https://localhost:44322/swagger/swagger-ui-bundle.js - - - 200 986342 application/javascript 54.6715ms : 
+[2021 Aug 19 09:48:50 INF] - Request starting HTTP/2 GET https://localhost:44322/swagger/v1/swagger.json - - : 
+[2021 Aug 19 09:48:50 INF] - Request finished HTTP/2 GET https://localhost:44322/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 59.4609ms : 
+[2021 Aug 19 09:48:57 INF] - Request starting HTTP/2 GET https://localhost:44322/WeatherForecast - - : 
+[2021 Aug 19 09:48:57 INF] - Executing endpoint '"HotelListing.Controllers.WeatherForecastController.Get (HotelListing)"' : 
+[2021 Aug 19 09:48:57 INF] - Route matched with "{action = \"Get\", controller = \"WeatherForecast\"}". Executing controller action with signature "System.Collections.Generic.IEnumerable`1[HotelListing.WeatherForecast] Get()" on controller "HotelListing.Controllers.WeatherForecastController" ("HotelListing"). : 
+[2021 Aug 19 09:48:57 INF] - Executing "ObjectResult", writing value of type '"HotelListing.WeatherForecast[]"'. : 
+[2021 Aug 19 09:48:57 INF] - Executed action "HotelListing.Controllers.WeatherForecastController.Get (HotelListing)" in 15.0018ms : 
+[2021 Aug 19 09:48:57 INF] - Executed endpoint '"HotelListing.Controllers.WeatherForecastController.Get (HotelListing)"' : 
+[2021 Aug 19 09:48:57 INF] - Request finished HTTP/2 GET https://localhost:44322/WeatherForecast - - - 200 - application/json;+charset=utf-8 65.6740ms : 
+[2021 Aug 19 09:55:17 INF] - Application is started : 
+[2021 Aug 19 09:55:17 INF] - Application started. Press Ctrl+C to shut down. : 
+[2021 Aug 19 09:55:17 INF] - Hosting environment: "Development" : 
+[2021 Aug 19 09:55:17 INF] - Content root path: "C:\Users\shirk\source\repos\HotelListing\HotelListing" : 
+[2021 Aug 19 09:55:17 INF] - Request starting HTTP/2 GET https://localhost:44322/swagger/index.html - - : 
+[2021 Aug 19 09:55:17 ERR] - An unhandled exception has occurred while executing the request. : 
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at HotelListing.Startup.<>c.<ConfigureServices>b__4_0(SwaggerGenOptions c) in C:\Users\shirk\source\repos\HotelListing\HotelListing\Startup.cs:line 33
+   at Microsoft.Extensions.Options.ConfigureNamedOptions`1.Configure(String name, TOptions options)
+   at Microsoft.Extensions.Options.OptionsFactory`1.Create(String name)
+   at Microsoft.Extensions.Options.OptionsManager`1.<>c__DisplayClass5_0.<Get>b__0()
+   at System.Lazy`1.ViaFactory(LazyThreadSafetyMode mode)
+   at System.Lazy`1.ExecutionAndPublication(LazyHelper executionAndPublication, Boolean useDefaultConstructor)
+   at System.Lazy`1.CreateValue()
+   at System.Lazy`1.get_Value()
+   at Microsoft.Extensions.Options.OptionsCache`1.GetOrAdd(String name, Func`1 createOptions)
+   at Microsoft.Extensions.Options.OptionsManager`1.Get(String name)
+   at Microsoft.Extensions.Options.OptionsManager`1.get_Value()
+   at Swashbuckle.AspNetCore.SwaggerGen.ConfigureSwaggerGeneratorOptions..ctor(IOptions`1 swaggerGenOptionsAccessor, IServiceProvider serviceProvider, IWebHostEnvironment hostingEnvironment)
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor, Boolean wrapExceptions)
+   at System.Reflection.RuntimeConstructorInfo.Invoke(BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.VisitConstructor(ConstructorCallSite constructorCallSite, RuntimeResolverContext context)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteVisitor`2.VisitCallSiteMain(ServiceCallSite callSite, TArgument argument)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.VisitDisposeCache(ServiceCallSite transientCallSite, RuntimeResolverContext context)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteVisitor`2.VisitCallSite(ServiceCallSite callSite, TArgument argument)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.VisitIEnumerable(IEnumerableCallSite enumerableCallSite, RuntimeResolverContext context)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteVisitor`2.VisitCallSiteMain(ServiceCallSite callSite, TArgument argument)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteVisitor`2.VisitNoCache(ServiceCallSite callSite, TArgument argument)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteVisitor`2.VisitCallSite(ServiceCallSite callSite, TArgument argument)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.VisitConstructor(ConstructorCallSite constructorCallSite, RuntimeResolverContext context)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteVisitor`2.VisitCallSiteMain(ServiceCallSite callSite, TArgument argument)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.VisitDisposeCache(ServiceCallSite transientCallSite, RuntimeResolverContext context)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteVisitor`2.VisitCallSite(ServiceCallSite callSite, TArgument argument)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.VisitConstructor(ConstructorCallSite constructorCallSite, RuntimeResolverContext context)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteVisitor`2.VisitCallSiteMain(ServiceCallSite callSite, TArgument argument)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.VisitCache(ServiceCallSite callSite, RuntimeResolverContext context, ServiceProviderEngineScope serviceProviderEngine, RuntimeResolverLock lockType)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.VisitRootCache(ServiceCallSite singletonCallSite, RuntimeResolverContext context)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteVisitor`2.VisitCallSite(ServiceCallSite callSite, TArgument argument)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.Resolve(ServiceCallSite callSite, ServiceProviderEngineScope scope)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.DynamicServiceProviderEngine.<>c__DisplayClass1_0.<RealizeService>b__0(ServiceProviderEngineScope scope)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.ServiceProviderEngine.GetService(Type serviceType, ServiceProviderEngineScope serviceProviderEngineScope)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.ServiceProviderEngineScope.GetService(Type serviceType)
+   at Microsoft.Extensions.DependencyInjection.ServiceProviderServiceExtensions.GetRequiredService(IServiceProvider provider, Type serviceType)
+   at Microsoft.Extensions.DependencyInjection.ServiceProviderServiceExtensions.GetRequiredService[T](IServiceProvider provider)
+   at Microsoft.Extensions.DependencyInjection.SwaggerGenServiceCollectionExtensions.<>c.<AddSwaggerGen>b__0_1(IServiceProvider s)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.VisitFactory(FactoryCallSite factoryCallSite, RuntimeResolverContext context)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteVisitor`2.VisitCallSiteMain(ServiceCallSite callSite, TArgument argument)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.VisitDisposeCache(ServiceCallSite transientCallSite, RuntimeResolverContext context)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteVisitor`2.VisitCallSite(ServiceCallSite callSite, TArgument argument)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.VisitConstructor(ConstructorCallSite constructorCallSite, RuntimeResolverContext context)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteVisitor`2.VisitCallSiteMain(ServiceCallSite callSite, TArgument argument)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.VisitDisposeCache(ServiceCallSite transientCallSite, RuntimeResolverContext context)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteVisitor`2.VisitCallSite(ServiceCallSite callSite, TArgument argument)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.Resolve(ServiceCallSite callSite, ServiceProviderEngineScope scope)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.DynamicServiceProviderEngine.<>c__DisplayClass1_0.<RealizeService>b__0(ServiceProviderEngineScope scope)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.ServiceProviderEngine.GetService(Type serviceType, ServiceProviderEngineScope serviceProviderEngineScope)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.ServiceProviderEngineScope.GetService(Type serviceType)
+   at Microsoft.AspNetCore.Builder.UseMiddlewareExtensions.GetService(IServiceProvider sp, Type type, Type middleware)
+   at lambda_method1(Closure , Object , HttpContext , IServiceProvider )
+   at Microsoft.AspNetCore.Builder.UseMiddlewareExtensions.<>c__DisplayClass5_1.<UseMiddleware>b__2(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+[2021 Aug 19 09:55:18 INF] - Request finished HTTP/2 GET https://localhost:44322/swagger/index.html - - - 500 - text/html;+charset=utf-8 246.8326ms : 
+[2021 Aug 19 09:55:18 INF] - Request starting HTTP/2 GET https://localhost:44322/_framework/aspnetcore-browser-refresh.js - - : 
+[2021 Aug 19 09:55:18 INF] - Request finished HTTP/2 GET https://localhost:44322/_framework/aspnetcore-browser-refresh.js - - - 200 3087 application/javascript;+charset=utf-8 2.8179ms : 
+[2021 Aug 19 09:55:18 INF] - Request starting HTTP/2 GET https://localhost:44322/favicon.ico - - : 
+[2021 Aug 19 09:55:18 ERR] - An unhandled exception has occurred while executing the request. : 
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at HotelListing.Startup.<>c.<ConfigureServices>b__4_0(SwaggerGenOptions c) in C:\Users\shirk\source\repos\HotelListing\HotelListing\Startup.cs:line 33
+   at Microsoft.Extensions.Options.ConfigureNamedOptions`1.Configure(String name, TOptions options)
+   at Microsoft.Extensions.Options.OptionsFactory`1.Create(String name)
+   at Microsoft.Extensions.Options.OptionsManager`1.<>c__DisplayClass5_0.<Get>b__0()
+   at System.Lazy`1.ViaFactory(LazyThreadSafetyMode mode)
+--- End of stack trace from previous location ---
+   at System.Lazy`1.CreateValue()
+   at System.Lazy`1.get_Value()
+   at Microsoft.Extensions.Options.OptionsCache`1.GetOrAdd(String name, Func`1 createOptions)
+   at Microsoft.Extensions.Options.OptionsManager`1.Get(String name)
+   at Microsoft.Extensions.Options.OptionsManager`1.get_Value()
+   at Swashbuckle.AspNetCore.SwaggerGen.ConfigureSwaggerGeneratorOptions..ctor(IOptions`1 swaggerGenOptionsAccessor, IServiceProvider serviceProvider, IWebHostEnvironment hostingEnvironment)
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor, Boolean wrapExceptions)
+   at System.Reflection.RuntimeConstructorInfo.Invoke(BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.VisitConstructor(ConstructorCallSite constructorCallSite, RuntimeResolverContext context)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteVisitor`2.VisitCallSiteMain(ServiceCallSite callSite, TArgument argument)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.VisitDisposeCache(ServiceCallSite transientCallSite, RuntimeResolverContext context)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteVisitor`2.VisitCallSite(ServiceCallSite callSite, TArgument argument)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.VisitIEnumerable(IEnumerableCallSite enumerableCallSite, RuntimeResolverContext context)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteVisitor`2.VisitCallSiteMain(ServiceCallSite callSite, TArgument argument)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteVisitor`2.VisitNoCache(ServiceCallSite callSite, TArgument argument)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteVisitor`2.VisitCallSite(ServiceCallSite callSite, TArgument argument)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.VisitConstructor(ConstructorCallSite constructorCallSite, RuntimeResolverContext context)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteVisitor`2.VisitCallSiteMain(ServiceCallSite callSite, TArgument argument)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.VisitDisposeCache(ServiceCallSite transientCallSite, RuntimeResolverContext context)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteVisitor`2.VisitCallSite(ServiceCallSite callSite, TArgument argument)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.VisitConstructor(ConstructorCallSite constructorCallSite, RuntimeResolverContext context)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteVisitor`2.VisitCallSiteMain(ServiceCallSite callSite, TArgument argument)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.VisitCache(ServiceCallSite callSite, RuntimeResolverContext context, ServiceProviderEngineScope serviceProviderEngine, RuntimeResolverLock lockType)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.VisitRootCache(ServiceCallSite singletonCallSite, RuntimeResolverContext context)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteVisitor`2.VisitCallSite(ServiceCallSite callSite, TArgument argument)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.Resolve(ServiceCallSite callSite, ServiceProviderEngineScope scope)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.DynamicServiceProviderEngine.<>c__DisplayClass1_0.<RealizeService>b__0(ServiceProviderEngineScope scope)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.ServiceProviderEngine.GetService(Type serviceType, ServiceProviderEngineScope serviceProviderEngineScope)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.ServiceProviderEngineScope.GetService(Type serviceType)
+   at Microsoft.Extensions.DependencyInjection.ServiceProviderServiceExtensions.GetRequiredService(IServiceProvider provider, Type serviceType)
+   at Microsoft.Extensions.DependencyInjection.ServiceProviderServiceExtensions.GetRequiredService[T](IServiceProvider provider)
+   at Microsoft.Extensions.DependencyInjection.SwaggerGenServiceCollectionExtensions.<>c.<AddSwaggerGen>b__0_1(IServiceProvider s)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.VisitFactory(FactoryCallSite factoryCallSite, RuntimeResolverContext context)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteVisitor`2.VisitCallSiteMain(ServiceCallSite callSite, TArgument argument)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.VisitDisposeCache(ServiceCallSite transientCallSite, RuntimeResolverContext context)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteVisitor`2.VisitCallSite(ServiceCallSite callSite, TArgument argument)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.VisitConstructor(ConstructorCallSite constructorCallSite, RuntimeResolverContext context)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteVisitor`2.VisitCallSiteMain(ServiceCallSite callSite, TArgument argument)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.VisitDisposeCache(ServiceCallSite transientCallSite, RuntimeResolverContext context)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteVisitor`2.VisitCallSite(ServiceCallSite callSite, TArgument argument)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.Resolve(ServiceCallSite callSite, ServiceProviderEngineScope scope)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.DynamicServiceProviderEngine.<>c__DisplayClass1_0.<RealizeService>b__0(ServiceProviderEngineScope scope)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.ServiceProviderEngine.GetService(Type serviceType, ServiceProviderEngineScope serviceProviderEngineScope)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.ServiceProviderEngineScope.GetService(Type serviceType)
+   at Microsoft.AspNetCore.Builder.UseMiddlewareExtensions.GetService(IServiceProvider sp, Type type, Type middleware)
+   at lambda_method1(Closure , Object , HttpContext , IServiceProvider )
+   at Microsoft.AspNetCore.Builder.UseMiddlewareExtensions.<>c__DisplayClass5_1.<UseMiddleware>b__2(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+[2021 Aug 19 09:55:18 INF] - Request finished HTTP/2 GET https://localhost:44322/favicon.ico - - - 500 - text/plain 6.0690ms : 
+[2021 Aug 19 09:57:49 INF] - Application is started : 
+[2021 Aug 19 09:57:50 INF] - Application started. Press Ctrl+C to shut down. : 
+[2021 Aug 19 09:57:50 INF] - Hosting environment: "Development" : 
+[2021 Aug 19 09:57:50 INF] - Content root path: "C:\Users\shirk\source\repos\HotelListing\HotelListing" : 
+[2021 Aug 19 09:57:50 INF] - Request starting HTTP/2 GET https://localhost:44322/swagger/index.html - - : 
+[2021 Aug 19 10:00:36 INF] - Application is started : 
+[2021 Aug 19 10:00:37 INF] - Application started. Press Ctrl+C to shut down. : 
+[2021 Aug 19 10:00:37 INF] - Hosting environment: "Development" : 
+[2021 Aug 19 10:00:37 INF] - Content root path: "C:\Users\shirk\source\repos\HotelListing\HotelListing" : 
+[2021 Aug 19 10:00:37 INF] - Request starting HTTP/2 GET https://localhost:44322/swagger/index.html - - : 
+[2021 Aug 19 10:05:53 INF] - Application is started : 
+[2021 Aug 19 10:05:54 INF] - Application started. Press Ctrl+C to shut down. : 
+[2021 Aug 19 10:05:54 INF] - Hosting environment: "Development" : 
+[2021 Aug 19 10:05:54 INF] - Content root path: "C:\Users\shirk\source\repos\HotelListing\HotelListing" : 
+[2021 Aug 19 10:05:54 INF] - Request starting HTTP/2 GET https://localhost:44322/swagger/index.html - - : 
+[2021 Aug 19 10:07:37 INF] - Application is started : 
+[2021 Aug 19 10:07:38 INF] - Application started. Press Ctrl+C to shut down. : 
+[2021 Aug 19 10:07:38 INF] - Hosting environment: "Development" : 
+[2021 Aug 19 10:07:38 INF] - Content root path: "C:\Users\shirk\source\repos\HotelListing\HotelListing" : 
+[2021 Aug 19 10:07:38 INF] - Request starting HTTP/2 GET https://localhost:44322/swagger/index.html - - : 
+[2021 Aug 19 10:07:38 INF] - Request finished HTTP/2 GET https://localhost:44322/swagger/index.html - - - 200 - text/html;charset=utf-8 98.9625ms : 
+[2021 Aug 19 10:07:38 INF] - Request starting HTTP/2 GET https://localhost:44322/swagger/v1/swagger.json - - : 
+[2021 Aug 19 10:07:38 INF] - Request finished HTTP/2 GET https://localhost:44322/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 66.8510ms : 
+[2021 Aug 19 10:07:49 INF] - Request starting HTTP/2 GET https://localhost:44322/WeatherForecast - - : 
+[2021 Aug 19 10:07:49 INF] - Executing endpoint '"HotelListing.Controllers.WeatherForecastController.Get (HotelListing)"' : 
+[2021 Aug 19 10:07:49 INF] - Route matched with "{action = \"Get\", controller = \"WeatherForecast\"}". Executing controller action with signature "System.Collections.Generic.IEnumerable`1[HotelListing.WeatherForecast] Get()" on controller "HotelListing.Controllers.WeatherForecastController" ("HotelListing"). : 
+[2021 Aug 19 10:07:49 INF] - Executing "ObjectResult", writing value of type '"HotelListing.WeatherForecast[]"'. : 
+[2021 Aug 19 10:07:49 INF] - Executed action "HotelListing.Controllers.WeatherForecastController.Get (HotelListing)" in 15.3136ms : 
+[2021 Aug 19 10:07:49 INF] - Executed endpoint '"HotelListing.Controllers.WeatherForecastController.Get (HotelListing)"' : 
+[2021 Aug 19 10:07:49 INF] - Request finished HTTP/2 GET https://localhost:44322/WeatherForecast - - - 200 - application/json;+charset=utf-8 59.2909ms : 
