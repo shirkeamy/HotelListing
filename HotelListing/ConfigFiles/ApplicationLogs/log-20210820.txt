@@ -1,0 +1,55 @@
+[2021 Aug 20 18:02:02 INF] - Application is started : 
+[2021 Aug 20 18:02:03 INF] - Application started. Press Ctrl+C to shut down. : 
+[2021 Aug 20 18:02:03 INF] - Hosting environment: "Development" : 
+[2021 Aug 20 18:02:03 INF] - Content root path: "C:\Users\shirk\source\repos\HotelListing\HotelListing" : 
+[2021 Aug 20 18:02:03 INF] - Request starting HTTP/2 GET https://localhost:44322/swagger/index.html - - : 
+[2021 Aug 20 18:02:03 INF] - Request finished HTTP/2 GET https://localhost:44322/swagger/index.html - - - 200 - text/html;charset=utf-8 115.2273ms : 
+[2021 Aug 20 18:02:03 INF] - Request starting HTTP/2 GET https://localhost:44322/_framework/aspnetcore-browser-refresh.js - - : 
+[2021 Aug 20 18:02:03 INF] - Request finished HTTP/2 GET https://localhost:44322/_framework/aspnetcore-browser-refresh.js - - - 200 3087 application/javascript;+charset=utf-8 2.3836ms : 
+[2021 Aug 20 18:02:03 INF] - Request starting HTTP/2 GET https://localhost:44322/swagger/v1/swagger.json - - : 
+[2021 Aug 20 18:02:03 INF] - Request finished HTTP/2 GET https://localhost:44322/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 57.0902ms : 
+[2021 Aug 20 18:23:35 INF] - Application is started : 
+[2021 Aug 20 18:23:35 INF] - Application started. Press Ctrl+C to shut down. : 
+[2021 Aug 20 18:23:35 INF] - Hosting environment: "Development" : 
+[2021 Aug 20 18:23:35 INF] - Content root path: "C:\Users\shirk\source\repos\HotelListing\HotelListing" : 
+[2021 Aug 20 18:23:36 INF] - Request starting HTTP/2 GET https://localhost:44322/swagger/index.html - - : 
+[2021 Aug 20 18:23:36 INF] - Request finished HTTP/2 GET https://localhost:44322/swagger/index.html - - - 200 - text/html;charset=utf-8 81.3527ms : 
+[2021 Aug 20 18:23:36 INF] - Request starting HTTP/2 GET https://localhost:44322/_framework/aspnetcore-browser-refresh.js - - : 
+[2021 Aug 20 18:23:36 INF] - Request finished HTTP/2 GET https://localhost:44322/_framework/aspnetcore-browser-refresh.js - - - 200 3087 application/javascript;+charset=utf-8 1.6595ms : 
+[2021 Aug 20 18:23:36 INF] - Request starting HTTP/2 GET https://localhost:44322/swagger/v1/swagger.json - - : 
+[2021 Aug 20 18:23:36 INF] - Request starting HTTP/2 GET https://localhost:44322/swagger/favicon-32x32.png - - : 
+[2021 Aug 20 18:23:36 INF] - Sending file. Request path: '"/favicon-32x32.png"'. Physical path: '"N/A"' : 
+[2021 Aug 20 18:23:36 INF] - Request finished HTTP/2 GET https://localhost:44322/swagger/favicon-32x32.png - - - 200 628 image/png 11.4508ms : 
+[2021 Aug 20 18:23:36 INF] - Request finished HTTP/2 GET https://localhost:44322/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 56.1949ms : 
+[2021 Aug 20 18:28:51 INF] - Application is started : 
+[2021 Aug 20 18:28:52 INF] - Application started. Press Ctrl+C to shut down. : 
+[2021 Aug 20 18:28:52 INF] - Hosting environment: "Development" : 
+[2021 Aug 20 18:28:52 INF] - Content root path: "C:\Users\shirk\source\repos\HotelListing\HotelListing" : 
+[2021 Aug 20 18:28:52 INF] - Request starting HTTP/2 GET https://localhost:44322/swagger/index.html - - : 
+[2021 Aug 20 18:28:52 INF] - Request finished HTTP/2 GET https://localhost:44322/swagger/index.html - - - 200 - text/html;charset=utf-8 83.2009ms : 
+[2021 Aug 20 18:28:52 INF] - Request starting HTTP/2 GET https://localhost:44322/_framework/aspnetcore-browser-refresh.js - - : 
+[2021 Aug 20 18:28:52 INF] - Request finished HTTP/2 GET https://localhost:44322/_framework/aspnetcore-browser-refresh.js - - - 200 3087 application/javascript;+charset=utf-8 1.3858ms : 
+[2021 Aug 20 18:28:52 INF] - Request starting HTTP/2 GET https://localhost:44322/swagger/v1/swagger.json - - : 
+[2021 Aug 20 18:28:52 INF] - Request starting HTTP/2 GET https://localhost:44322/swagger/favicon-32x32.png - - : 
+[2021 Aug 20 18:28:52 INF] - Sending file. Request path: '"/favicon-32x32.png"'. Physical path: '"N/A"' : 
+[2021 Aug 20 18:28:52 INF] - Request finished HTTP/2 GET https://localhost:44322/swagger/favicon-32x32.png - - - 200 628 image/png 10.1237ms : 
+[2021 Aug 20 18:28:52 INF] - Request finished HTTP/2 GET https://localhost:44322/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 54.1170ms : 
+[2021 Aug 20 18:29:14 INF] - Application is started : 
+[2021 Aug 20 18:29:14 INF] - Application started. Press Ctrl+C to shut down. : 
+[2021 Aug 20 18:29:14 INF] - Hosting environment: "Development" : 
+[2021 Aug 20 18:29:14 INF] - Content root path: "C:\Users\shirk\source\repos\HotelListing\HotelListing" : 
+[2021 Aug 20 18:29:16 INF] - Application is started : 
+[2021 Aug 20 18:29:17 INF] - Application started. Press Ctrl+C to shut down. : 
+[2021 Aug 20 18:29:17 INF] - Hosting environment: "Development" : 
+[2021 Aug 20 18:29:17 INF] - Content root path: "C:\Users\shirk\source\repos\HotelListing\HotelListing" : 
+[2021 Aug 20 18:29:17 INF] - Request starting HTTP/2 GET https://localhost:44322/swagger/index.html - - : 
+[2021 Aug 20 18:29:17 INF] - Request starting HTTP/2 GET https://localhost:44322/swagger/index.html - - : 
+[2021 Aug 20 18:29:17 INF] - Request finished HTTP/2 GET https://localhost:44322/swagger/index.html - - - 200 - text/html;charset=utf-8 83.1251ms : 
+[2021 Aug 20 18:29:17 INF] - Request finished HTTP/2 GET https://localhost:44322/swagger/index.html - - - 200 - text/html;charset=utf-8 82.9682ms : 
+[2021 Aug 20 18:29:17 INF] - Request starting HTTP/2 GET https://localhost:44322/_framework/aspnetcore-browser-refresh.js - - : 
+[2021 Aug 20 18:29:17 INF] - Request finished HTTP/2 GET https://localhost:44322/_framework/aspnetcore-browser-refresh.js - - - 200 3087 application/javascript;+charset=utf-8 2.1997ms : 
+[2021 Aug 20 18:29:17 INF] - Request starting HTTP/2 GET https://localhost:44322/swagger/v1/swagger.json - - : 
+[2021 Aug 20 18:29:17 INF] - Request starting HTTP/2 GET https://localhost:44322/swagger/favicon-32x32.png - - : 
+[2021 Aug 20 18:29:17 INF] - Sending file. Request path: '"/favicon-32x32.png"'. Physical path: '"N/A"' : 
+[2021 Aug 20 18:29:17 INF] - Request finished HTTP/2 GET https://localhost:44322/swagger/favicon-32x32.png - - - 200 628 image/png 6.2320ms : 
+[2021 Aug 20 18:29:17 INF] - Request finished HTTP/2 GET https://localhost:44322/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 45.8255ms : 
